@@ -30,34 +30,12 @@ This project is built using the **MERN Stack** and is beginner-friendly.
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB Atlas
 - **Other Tools**: Git, GitHub, QR Code
-
----
-
-## 📂 Project Structure
-
-qr-menu-mern/
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│
-├── frontend/
-│ ├── src/
-│ │ ├── Admin.js
-│ │ ├── QRMenu.js
-│ │ ├── QRCodePage.js
-│ │ └── App.js
-│
-└── README.md
-
-
+- 
 ---
 
 ## ⚙️ How to Run Locally
 
-### 1️⃣ Backend
-```bash
+1️⃣ Backend
 cd backend
 npm install
 npm start
