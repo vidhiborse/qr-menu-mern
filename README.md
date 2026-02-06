@@ -62,4 +62,4 @@ Admin receives the order with a notification
 
 ---
 
-###⭐ If you like this project, please give it a star!
+##⭐ If you like this project, please give it a star!
