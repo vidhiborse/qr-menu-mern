@@ -36,15 +36,15 @@ This project is built using the **MERN Stack** and is beginner-friendly.
 ## ⚙️ How to Run Locally
 
 1️⃣ Backend
-cd backend
-npm install
-npm start
+  cd backend
+  npm install
+  npm start
 
 
 2️⃣ Frontend
-cd frontend
-npm install
-npm start
+  cd frontend
+  npm install
+  npm start
 
 📱 How It Works
 
