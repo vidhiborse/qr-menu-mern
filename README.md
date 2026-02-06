@@ -40,7 +40,8 @@ This project is built using the **MERN Stack** and is beginner-friendly.
 cd backend
 npm install
 npm start
-2️⃣ Frontend
+
+###2️⃣ Frontend
 cd frontend
 npm install
 npm start
