@@ -46,8 +46,10 @@ cd frontend
 npm install
 npm start
 
+---
 
-📱 How It Works
+##📱 How It Works
+
 Admin generates a QR code
 
 Customer scans the QR code → menu opens
