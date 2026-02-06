@@ -40,7 +40,7 @@ This project is built using the **MERN Stack** and is beginner-friendly.
 cd backend
 npm install
 npm start
-
+---
 ###2️⃣ Frontend
 cd frontend
 npm install
@@ -48,7 +48,7 @@ npm start
 
 ---
 
-##📱 How It Works
+###📱 How It Works
 
 Admin generates a QR code
 
@@ -60,7 +60,6 @@ Order is saved in MongoDB
 
 Admin receives the order with a notification
 
+---
 
-Interested in building real-world MERN stack projects
-
-⭐ If you like this project, please give it a star!
+###⭐ If you like this project, please give it a star!
