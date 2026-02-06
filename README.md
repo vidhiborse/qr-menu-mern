@@ -1,6 +1,6 @@
 # 🍽️ QR Code Based Digital Menu & Ordering System (MERN Stack)
 
-A full-stack **Digital Menu and Ordering System** where customers scan a QR code, place orders from their mobile, and the admin receives orders in real time.
+A full-stack **Digital Menu and Ordering System** where customers scan a QR code, place orders from their mobile phones, and the admin receives orders in real time.
 
 This project is built using the **MERN Stack** and is beginner-friendly.
 
@@ -9,74 +9,66 @@ This project is built using the **MERN Stack** and is beginner-friendly.
 ## 🚀 Features
 
 ### 👨‍🍳 Customer Side
-- Scan QR code to open menu
+- Scan QR code to open the menu
 - Enter table number
 - Select food items using checkboxes
 - Auto-calculated total bill
-- Place order with confirmation
+- Place order with confirmation alert
 
 ### 🧑‍💼 Admin Side
-- View all orders
-- See **table number, items, total bill, and time**
+- View all customer orders
+- See **table number, ordered items, total bill, and order time**
 - Latest orders shown first
 - Auto-refresh orders
-- 🔔 Notification when a new order arrives
+- 🔔 Notification when a new order is received
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB Atlas
-- **Other Tools**: Git, GitHub, QR Code
-- 
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB Atlas  
+- **Other Tools**: Git, GitHub, QR Code  
+
 ---
 
 ## ⚙️ How to Run Locally
 
-1️⃣ Backend
-  cd backend
-  npm install
-  npm start
-
-
+### 1️⃣ Backend
+```bash
+cd backend
+npm install
+npm start
 2️⃣ Frontend
-  cd frontend
-  npm install
-  npm start
----
+cd frontend
+npm install
+npm start
 📱 How It Works
-
 Admin generates a QR code
 
-Customer scans QR → menu opens
+Customer scans the QR code → menu opens
 
-Customer selects items & enters table number
+Customer selects items and enters table number
 
 Order is saved in MongoDB
 
-Admin receives order with notification
----
-🎯 Future Improvements
+Admin receives the order with a notification
 
+🎯 Future Improvements
 Sound notification for admin
 
 Online payment integration
 
-Login system for admin
+Admin login system
 
-UI/UX improvements
+Improved UI/UX design
 
 Real-time updates using Socket.IO
 
----
-
-
 🙋‍♀️ Author
-
 Vidhi Borse
 2nd-year B.Tech Data Science student
-Interested in real-world MERN projects
----
-⭐ If you like this project, give it a star!
+Interested in building real-world MERN stack projects
+
+⭐ If you like this project, please give it a star!
