@@ -45,7 +45,7 @@ This project is built using the **MERN Stack** and is beginner-friendly.
   cd frontend
   npm install
   npm start
-
+---
 📱 How It Works
 
 Admin generates a QR code
@@ -57,7 +57,7 @@ Customer selects items & enters table number
 Order is saved in MongoDB
 
 Admin receives order with notification
-
+---
 🎯 Future Improvements
 
 Sound notification for admin
@@ -69,11 +69,11 @@ Login system for admin
 UI/UX improvements
 
 Real-time updates using Socket.IO
-
+---
 🙋‍♀️ Author
 
 Vidhi Borse
 2nd-year B.Tech Data Science student
 Interested in real-world MERN projects
-
+---
 ⭐ If you like this project, give it a star!
